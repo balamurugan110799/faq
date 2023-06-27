@@ -32,12 +32,11 @@ module.exports = {
       'h1': '36px',
     },
     colors: {
-      'primary': '#3a516d',
-      'secondary': '#436790',
-      'ash-blue': '#2f3e4f',
-      'grey-logo': '#909090',
-      'grey': '#cdcdcd',
+      'primary': 'hsl(237, 12%, 33%)',
+      'secondary': 'hsl(240, 6%, 50%)',
+      'blue': 'hsl(240, 5%, 91%)',
       'white':'#fff',
+      'voilet':'rgba(116,100,232,255)',
     },
     borderRadius: {
       'none': '0',
